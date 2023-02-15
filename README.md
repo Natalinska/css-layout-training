@@ -41,4 +41,4 @@ You will **_not need_** to edit the HTML in order to achieve this layout and the
 
 ## Solution
 
-Find solution at [https://github.com/mdn/learning-area/tree/main/css/introduction-to-css/fundamental-css-comprehension-finished](https://github.com/mdn/learning-area/tree/main/css/introduction-to-css/fundamental-css-comprehension-finished)
+Find solution at [https://github.com/mdn/learning-area/tree/main/css/css-layout/fundamental-layout-comprehension-finish](https://github.com/mdn/learning-area/tree/main/css/css-layout/fundamental-layout-comprehension-finish)
